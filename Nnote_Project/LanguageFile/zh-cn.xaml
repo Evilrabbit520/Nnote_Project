@@ -1,0 +1,15 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:sys="clr-namespace:System;assembly=mscorlib"
+                    xmlns:local="clr-namespace:Nnote_Project">
+    <!--Menu开始-->
+    <sys:String x:Key="MenuFile_Text">文件</sys:String>
+    <sys:String x:Key="MenuEdit_Text">编辑</sys:String>
+    <sys:String x:Key="MenuView_Text">视图</sys:String>
+    <sys:String x:Key="MenuTools_Text">工具</sys:String>
+    <sys:String x:Key="MenuHelp_Text">帮助</sys:String>
+    <!--Memu结束-->
+    <sys:String x:Key="Home_Text">主页</sys:String>
+    <sys:String x:Key="Ln_Text">行</sys:String>
+    <sys:String x:Key="Col_Text">列</sys:String>
+</ResourceDictionary>
