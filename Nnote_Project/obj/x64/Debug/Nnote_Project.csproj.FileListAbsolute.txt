@@ -1,0 +1,16 @@
+P:\Nnote_Project\Nnote_Project\bin\x64\Debug\Nnote_Project.exe.config
+P:\Nnote_Project\Nnote_Project\bin\x64\Debug\Nnote_Project.exe
+P:\Nnote_Project\Nnote_Project\bin\x64\Debug\Nnote_Project.pdb
+P:\Nnote_Project\Nnote_Project\obj\x64\Debug\MainWindow.g.cs
+P:\Nnote_Project\Nnote_Project\obj\x64\Debug\PreloadedPages.g.cs
+P:\Nnote_Project\Nnote_Project\obj\x64\Debug\App.g.cs
+P:\Nnote_Project\Nnote_Project\obj\x64\Debug\Nnote_Project_MarkupCompile.cache
+P:\Nnote_Project\Nnote_Project\obj\x64\Debug\Nnote_Project_MarkupCompile.lref
+P:\Nnote_Project\Nnote_Project\obj\x64\Debug\MainWindow.baml
+P:\Nnote_Project\Nnote_Project\obj\x64\Debug\PreloadedPages.baml
+P:\Nnote_Project\Nnote_Project\obj\x64\Debug\Nnote_Project.g.resources
+P:\Nnote_Project\Nnote_Project\obj\x64\Debug\Nnote_Project.Properties.Resources.resources
+P:\Nnote_Project\Nnote_Project\obj\x64\Debug\Nnote_Project.csproj.GenerateResource.cache
+P:\Nnote_Project\Nnote_Project\obj\x64\Debug\Nnote_Project.exe
+P:\Nnote_Project\Nnote_Project\obj\x64\Debug\Nnote_Project.pdb
+P:\Nnote_Project\Nnote_Project\obj\x64\Debug\Nnote_Project.csprojAssemblyReference.cache
