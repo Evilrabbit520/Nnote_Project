@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-P:\Nnote_Project\Nnote_Project\obj\Debug\
+P:\Nnote_Project\Nnote_Project\obj\x64\Release\
 Nnote_Project
 none
 false
-DEBUG;TRACE
+TRACE
 P:\Nnote_Project\Nnote_Project\App.xaml
 22082649421
 

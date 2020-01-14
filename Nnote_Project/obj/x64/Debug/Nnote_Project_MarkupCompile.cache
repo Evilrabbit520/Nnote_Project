@@ -4,7 +4,7 @@
 winexe
 C#
 .cs
-P:\Nnote_Project\Nnote_Project\obj\Debug\
+P:\Nnote_Project\Nnote_Project\obj\x64\Debug\
 Nnote_Project
 none
 false
@@ -16,5 +16,5 @@ P:\Nnote_Project\Nnote_Project\App.xaml
 141066371409
 MainWindow.xaml;PreloadedPages.xaml;
 
-True
+False
 
