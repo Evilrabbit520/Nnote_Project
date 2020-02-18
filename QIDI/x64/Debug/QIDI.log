@@ -1,0 +1,3 @@
+﻿  QIDI.cpp
+P:\Nnote_Project\QIDI\QIDI.cpp(23,8): warning C4101: “query”: 未引用的局部变量
+  QIDI.vcxproj -> P:\Nnote_Project\x64\Debug\QIDI.exe
